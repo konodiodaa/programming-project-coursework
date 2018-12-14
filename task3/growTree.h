@@ -1,0 +1,1 @@
+void growTree(Node *current);
