@@ -1,0 +1,1 @@
+void destroyTree(Node *head);
